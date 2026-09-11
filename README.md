@@ -149,7 +149,7 @@ Backend-focused system demonstrating:
 ## 🌍 Languages
 
 - **Portuguese:** Native
-- **English:** B1
+- **English:** A2
 - **Spanish:** A2
 
 ---
