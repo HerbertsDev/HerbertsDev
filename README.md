@@ -1,178 +1,177 @@
 <div align="center">
 
-# Herbert Da Silva Da Cruz
+![Cabeçalho de Herbert da Silva da Cruz: desenvolvedor de software Full Stack](./assets/cabecalho.svg)
 
-## Back-End Developer | Software Engineering Student
+# Herbert da Silva da Cruz
 
+**Desenvolvedor de Software | Full Stack**
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=flat-square&logo=googlechrome&logoColor=58A6FF)](https://herbertsdev.github.io/herbert-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/herbert-da-silva-da-cruz-b001942b0/)
+[![E-mail](https://img.shields.io/badge/E--mail-111827?style=flat-square&logo=microsoftoutlook&logoColor=D7B65D)](mailto:herbertdasilvadacruz@outlook.com)
+
+</div>
+
+```text
+herbert@github:~/workspace$ status --resumo
+
+foco       desenvolvimento de software, APIs, interfaces e bancos de dados
+formação   Análise e Desenvolvimento de Sistemas · Mackenzie · 2º/5 semestres
+objetivo   oportunidade de estágio em desenvolvimento de software
+modo       aprender → construir → documentar → evoluir
 ```
-> Back-End Developer
-> Building scalable APIs
-> Building distributed systems
-> Software Engineering Student @ Mackenzie
-> Learning Software Architecture
-> Building reliable systems
-```
 
----
+## Painel do perfil
 
-</div>
+| Sinal | Informação |
+| :--- | :--- |
+| **Usuário** | Herbert da Silva da Cruz |
+| **Localização** | São Paulo, SP, Brasil |
+| **Formação** | Análise e Desenvolvimento de Sistemas |
+| **Instituição** | Universidade Presbiteriana Mackenzie |
+| **Atuação** | Desenvolvimento Full Stack |
+| **Interesses** | Back-end, interfaces web, APIs, bancos de dados e aplicativos móveis |
+| **GitHub** | [@HerbertsDev](https://github.com/HerbertsDev) |
 
-## 👨‍💻 About Me
+## Sobre mim
 
-I'm a Back-End Developer and Software Engineering student at Universidade Presbiteriana Mackenzie in São Paulo, Brazil. I'm passionate about building robust, scalable APIs and distributed systems. My focus is on software engineering principles, clean architecture, and modern backend technologies.
+Sou estudante de Análise e Desenvolvimento de Sistemas e transformo aprendizado em software: APIs, interfaces web e bancos de dados construídos com clareza, organização e atenção à experiência de quem usa.
 
-Currently building projects involving microservices, event-driven architecture, and cloud-based solutions.
+Minha trajetória também inclui suporte técnico e de redes, investigação de incidentes, atendimento a usuários e comunicação entre equipes. Essa base reforçou meu olhar para confiabilidade, documentação e resolução de problemas. Hoje, desenvolvo projetos de back-end, front-end, banco de dados e prototipação de interfaces enquanto busco uma oportunidade de estágio em desenvolvimento de software.
 
-**Location:** São Paulo, SP, Brazil
+## Stack tecnológica
 
----
+### Aplicada em projetos e experiências documentadas
 
-## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=58A6FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=58A6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=D7B65D)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=58A6FF)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=58A6FF)
+![SCSS](https://img.shields.io/badge/SCSS-111827?style=flat-square&logo=sass&logoColor=58A6FF)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-111827?style=flat-square&logo=angular&logoColor=58A6FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=58A6FF)
+![APIs REST](https://img.shields.io/badge/APIs_REST-111827?style=flat-square&logo=postman&logoColor=D7B65D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=58A6FF)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=58A6FF)
 
-### Back-End & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=58A6FF)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=F0F6FC)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=58A6FF)
+![Playwright](https://img.shields.io/badge/Playwright-111827?style=flat-square&logo=playwright&logoColor=58A6FF)
+![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=D7B65D)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-111827?style=flat-square&logo=postgresql&logoColor=58A6FF)
 
-### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### Conhecimentos e estudos complementares
 
-### Architecture & Messaging
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)
-![Event--Driven](https://img.shields.io/badge/Event--Driven%20Architecture-4A90E2?style=flat-square&logo=apache-kafka&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=58A6FF)
+![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=dotnet&logoColor=58A6FF)
+![Dart](https://img.shields.io/badge/Dart-111827?style=flat-square&logo=dart&logoColor=58A6FF)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=58A6FF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=58A6FF)
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=58A6FF)
+![.NET](https://img.shields.io/badge/.NET-111827?style=flat-square&logo=dotnet&logoColor=58A6FF)
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=58A6FF)
+![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=58A6FF)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=58A6FF)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=D7B65D)
+![Kafka](https://img.shields.io/badge/Kafka-111827?style=flat-square&logo=apachekafka&logoColor=F0F6FC)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111827?style=flat-square&logo=rabbitmq&logoColor=D7B65D)
+![JWT](https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=F0F6FC)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-111827?style=flat-square&logo=openapiinitiative&logoColor=58A6FF)
+![Jira](https://img.shields.io/badge/Jira-111827?style=flat-square&logo=jira&logoColor=58A6FF)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=58A6FF)
+![Postman](https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=D7B65D)
 
-### Tools & Platforms
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+> As tecnologias estão separadas entre aplicação em projetos ou experiências documentadas e repertório de estudos complementares. Badges não representam nível de proficiência.
 
----
+## Projetos em destaque
 
-## 🚀 Featured Projects
+### [Portfólio profissional](https://github.com/HerbertsDev/herbert-portfolio) · publicado
 
-### Payment Orchestration Layer
-**Backend architecture for payment orchestration and financial service integration**
+Aplicação Angular responsiva para apresentar trajetória, projetos e formação. Inclui terminal animado, navegação acessível, suporte a movimento reduzido, testes de interface com Playwright e publicação automática no GitHub Pages.
 
-Building a sophisticated payment orchestration system focused on:
-- REST API design and scalability
-- Microservices orchestration
-- Authentication & Authorization mechanisms
-- Secure transaction processing
-- Database optimization
-- Backend architecture patterns
+`Angular` `TypeScript` `SCSS` `RxJS` `Playwright` `GitHub Actions`
 
-**Key Concepts:** APIs REST | Microservices | Authentication | Transaction Processing | Backend Architecture
+[Ver aplicação](https://herbertsdev.github.io/herbert-portfolio/) · [Ver repositório](https://github.com/HerbertsDev/herbert-portfolio)
 
----
+### Payment Orchestration Layer · experiência por projeto
 
-### Event Driven Notification Engine
-**Distributed system for asynchronous notification processing and delivery**
+Componentes de back-end e APIs REST para fluxos de pagamento, desenvolvidos durante um programa prático remoto da Zetheta Algorithms. O trabalho envolveu implementação, organização de entregáveis e documentação técnica. O código não possui repositório público.
 
-A production-grade event-driven notification engine demonstrating:
-- Event-driven architecture patterns
-- Message broker orchestration
-- Asynchronous processing at scale
-- Queue management and retry strategies
-- Dead letter queue handling
-- System observability
+`Python` `FastAPI` `SQL` `APIs REST`
 
-**Stack:** Node.js | TypeScript | PostgreSQL | Redis | Kafka | RabbitMQ | Docker
+### [StockFlow Database](https://github.com/HerbertsDev/StockFlow-database) · projeto acadêmico
 
-**Key Concepts:** Event-Driven Architecture | Message Brokers | Async Processing | Microservices | Scalability
+Banco de dados relacional para controle de produtos, criado para aplicar modelagem, operações CRUD, consultas com filtros e restrições de integridade.
 
----
+`PostgreSQL 17` `SQL` `pgAdmin 4` `Git`
 
-### Network Monitoring System
-**Automated monitoring platform for device and service health tracking**
+### [Simulador da Copa 2026](https://github.com/HerbertsDev/Simulador-de-Copa-2026) · projeto de estudo
 
-Backend-focused system demonstrating:
-- API development and automation
-- Data collection and processing
-- Cloud infrastructure integration
-- Automated monitoring workflows
-- Backend scalability patterns
+Simulador em Python das fases eliminatórias de um torneio, com resultados automáticos, decisão por pênaltis e persistência das partidas para consultas SQL.
 
-**Stack:** Python | FastAPI | PostgreSQL | Docker | AWS
+`Python 3` `SQLite` `SQL`
 
-**Key Concepts:** Software Automation | Backend APIs | Cloud Architecture | System Monitoring
+### [Gerenciamento de Medicamentos](https://www.figma.com/design/XKu1AvIUDeFM1mndTBAd8G/Projeto-de-modelo-de-interface-de-app-IOS--UX---UI-?t=RT19KbLECdbJCqcl-1) · protótipo
 
----
+Protótipo de experiência para iOS com agenda diária, detalhes de dose e horário, cadastro de lembretes e confirmação. É um trabalho de UX/UI; não há aplicativo publicado.
 
-## 📊 GitHub Analytics
+`Figma` `UX/UI` `Design para iOS`
+
+<details>
+<summary><strong>Outros repositórios de estudo</strong></summary>
+
+- [Calculadora em Python](https://github.com/HerbertsDev/calculadora-python-1.0) — operações matemáticas e prática de lógica de programação.
+- [Conversor de temperaturas](https://github.com/HerbertsDev/Conversor-de-temperaturas-1.0) — condicionais, entrada de dados e formatação em Python.
+
+</details>
+
+## Atividade no GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HerbertsDev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Visão geral das contribuições públicas de Herbert](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HerbertsDev&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertsDev&theme=tokyonight&hide_border=true&layout=compact)
+![Estatísticas públicas do perfil de Herbert](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HerbertsDev&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=HerbertsDev&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-- Software Architecture & Design Patterns
-- Distributed Systems Design
-- AWS Cloud Architecture
-- Docker & Container Orchestration
-- Advanced Microservices Patterns
-- Event-Driven Architecture at Scale
-- Backend Engineering Best Practices
-- System Design & Scalability
-
----
-
-## 🌍 Languages
-
-- **Portuguese:** Native
-- **English:** A2
-- **Spanish:** A2
-
----
-
-## 📞 Connect with me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herbert-da-silva-da-cruz-b001942b0)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HerbertsDev)
+![Repositórios por linguagem no perfil de Herbert](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HerbertsDev&theme=github_dark)
 
 </div>
+
+> Os gráficos refletem apenas atividade pública e não medem proficiência. Se o serviço externo estiver indisponível, a [atividade nativa do perfil](https://github.com/HerbertsDev?tab=overview) continua acessível.
+
+## Aprendizado contínuo
+
+- Engenharia de software, arquitetura limpa e padrões de projeto.
+- Arquitetura de sistemas, microsserviços e sistemas distribuídos.
+- Computação em nuvem, contêineres e escalabilidade.
+- Arquitetura orientada a eventos, mensageria e processamento assíncrono.
+- Observabilidade, monitoramento de sistemas e confiabilidade.
+
+Esses tópicos representam minha direção de estudo. Projetos conceituais de motor de notificações orientado a eventos e monitoramento de redes fazem parte desse roteiro, sem serem apresentados aqui como produtos públicos concluídos.
+
+## Idiomas
+
+- **Português:** nativo
+- **Inglês:** A2
+- **Espanhol:** A2
+
+## Contato
+
+Estou em busca de uma oportunidade de estágio em desenvolvimento de software. Para conversar sobre projetos, tecnologia ou oportunidades:
+
+- **Portfólio:** [herbertsdev.github.io/herbert-portfolio](https://herbertsdev.github.io/herbert-portfolio/)
+- **LinkedIn:** [Herbert da Silva da Cruz](https://www.linkedin.com/in/herbert-da-silva-da-cruz-b001942b0/)
+- **E-mail:** [herbertdasilvadacruz@outlook.com](mailto:herbertdasilvadacruz@outlook.com)
+- **GitHub:** [@HerbertsDev](https://github.com/HerbertsDev)
 
 ---
 
 <div align="center">
 
-### 🎓 Studying
-
-Análise e Desenvolvimento de Sistemas • Universidade Presbiteriana Mackenzie
-
----
-
-*Building scalable systems, one API at a time.*
+**Engenharia de software como protagonista. Personalidade nos detalhes.**
 
 </div>

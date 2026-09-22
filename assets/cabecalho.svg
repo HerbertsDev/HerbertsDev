@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Herbert da Silva da Cruz — Desenvolvedor de Software Full Stack</title>
+  <desc id="desc">Painel técnico em grafite, azul e dourado com diagrama de arquitetura, linhas geométricas e mapa estelar abstrato.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B111B"/>
+      <stop offset="0.55" stop-color="#101A29"/>
+      <stop offset="1" stop-color="#0A1019"/>
+    </linearGradient>
+    <linearGradient id="blue-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2F81F7" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#58A6FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#2F81F7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8BA4C6" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="380" rx="22" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="378" rx="21" fill="none" stroke="#30445F"/>
+  <rect x="20" y="20" width="1160" height="340" rx="15" fill="url(#grid)" stroke="#1F3149"/>
+
+  <g aria-hidden="true">
+    <circle cx="42" cy="42" r="4" fill="#58A6FF"/>
+    <circle cx="58" cy="42" r="4" fill="#D7B65D"/>
+    <path d="M76 42H292" stroke="#30445F"/>
+    <text x="310" y="46" fill="#7891B3" font-family="Consolas, Menlo, monospace" font-size="12" letter-spacing="1.7">PROFILE / SYSTEMS / 2026</text>
+    <path d="M910 42H1158" stroke="#30445F"/>
+    <text x="1074" y="46" fill="#D7B65D" font-family="Consolas, Menlo, monospace" font-size="11" letter-spacing="1.2">ONLINE</text>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="70" y="103" fill="#D7B65D" font-family="Consolas, Menlo, monospace" font-size="15" font-weight="600" letter-spacing="2">SOFTWARE / FULL STACK</text>
+    <text x="66" y="164" fill="#F0F6FC" font-size="47" font-weight="700" letter-spacing="-1">Herbert da Silva da Cruz</text>
+    <rect x="70" y="186" width="72" height="3" rx="1.5" fill="#58A6FF"/>
+    <rect x="150" y="186" width="24" height="3" rx="1.5" fill="#D7B65D"/>
+    <text x="70" y="226" fill="#9DB4D1" font-size="21" font-weight="400">Desenvolvedor de Software | Full Stack</text>
+    <text x="70" y="258" fill="#6F8AAD" font-size="16">Tecnologia · conhecimento · engenharia de software</text>
+  </g>
+
+  <g transform="translate(70 294)" font-family="Consolas, Menlo, monospace">
+    <rect width="520" height="43" rx="8" fill="#0A1019" stroke="#2C4260"/>
+    <circle cx="20" cy="21.5" r="4" fill="#58A6FF"/>
+    <text x="36" y="26" fill="#7EE787" font-size="14">herbert@github</text>
+    <text x="150" y="26" fill="#6F8AAD" font-size="14">:</text>
+    <text x="161" y="26" fill="#D7B65D" font-size="14">~/workspace</text>
+    <text x="258" y="26" fill="#9DB4D1" font-size="14">$ build --with-purpose</text>
+    <rect x="477" y="14" width="2" height="16" fill="#58A6FF" opacity="0.85"/>
+  </g>
+
+  <path d="M636 76V328" stroke="url(#blue-line)"/>
+
+  <g aria-hidden="true" font-family="Consolas, Menlo, monospace">
+    <text x="684" y="92" fill="#7891B3" font-size="11" letter-spacing="1.6">ARCHITECTURE MAP</text>
+    <text x="1070" y="92" fill="#526B8C" font-size="10">03 NODES</text>
+
+    <path d="M713 171H779M877 171H943" stroke="#4B83B9" stroke-width="1.5"/>
+    <path d="M766 165L779 171L766 177M930 165L943 171L930 177" fill="none" stroke="#58A6FF" stroke-width="1.5"/>
+    <rect x="664" y="136" width="104" height="70" rx="8" fill="#101C2D" stroke="#34577D"/>
+    <rect x="780" y="126" width="150" height="90" rx="8" fill="#122239" stroke="#58A6FF"/>
+    <rect x="944" y="136" width="104" height="70" rx="8" fill="#101C2D" stroke="#806E3D"/>
+    <text x="687" y="165" fill="#9DB4D1" font-size="11">INTERFACE</text>
+    <text x="699" y="185" fill="#58A6FF" font-size="18">UI</text>
+    <text x="821" y="162" fill="#F0F6FC" font-size="11">SERVICES</text>
+    <text x="825" y="189" fill="#58A6FF" font-size="19">API</text>
+    <circle cx="899" cy="171" r="5" fill="#7EE787" filter="url(#glow)"/>
+    <text x="967" y="165" fill="#9DB4D1" font-size="11">DATA</text>
+    <path d="M976 177h40v14h-40zm0 0c0-8 40-8 40 0m-40 14c0 8 40 8 40 0" fill="none" stroke="#D7B65D" stroke-width="1.4"/>
+
+    <path d="M715 258C785 230 861 287 926 254C990 222 1040 245 1118 198" fill="none" stroke="#3A6088" stroke-width="1" stroke-dasharray="4 7"/>
+    <path d="M715 279C788 251 848 301 918 278C1000 251 1052 278 1121 243" fill="none" stroke="#766638" stroke-width="1" stroke-dasharray="2 8"/>
+    <circle cx="715" cy="258" r="3" fill="#58A6FF"/>
+    <circle cx="796" cy="248" r="2.5" fill="#D7B65D"/>
+    <circle cx="867" cy="275" r="3.5" fill="#58A6FF" filter="url(#glow)"/>
+    <circle cx="926" cy="254" r="2" fill="#9DB4D1"/>
+    <circle cx="1008" cy="238" r="3" fill="#D7B65D"/>
+    <circle cx="1118" cy="198" r="3.5" fill="#58A6FF" filter="url(#glow)"/>
+    <circle cx="918" cy="278" r="2.5" fill="#D7B65D"/>
+    <circle cx="1121" cy="243" r="2" fill="#9DB4D1"/>
+    <circle cx="1033" cy="267" r="44" fill="none" stroke="#496784" stroke-opacity="0.38"/>
+    <circle cx="1033" cy="267" r="29" fill="none" stroke="#D7B65D" stroke-opacity="0.28" stroke-dasharray="3 8"/>
+    <path d="M989 267H1077M1033 223V311" stroke="#526B8C" stroke-opacity="0.3"/>
+
+    <rect x="672" y="309" width="471" height="28" rx="6" fill="#0A1019" stroke="#263A54"/>
+    <text x="686" y="328" fill="#7891B3" font-size="11">request</text>
+    <text x="742" y="328" fill="#58A6FF" font-size="11">→</text>
+    <text x="762" y="328" fill="#9DB4D1" font-size="11">logic</text>
+    <text x="804" y="328" fill="#58A6FF" font-size="11">→</text>
+    <text x="824" y="328" fill="#D7B65D" font-size="11">data</text>
+    <text x="1078" y="328" fill="#7EE787" font-size="11">READY</text>
+  </g>
+</svg>
