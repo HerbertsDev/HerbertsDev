@@ -1,27 +1,37 @@
 <div align="center">
 
-![Cabeçalho de Herbert da Silva da Cruz: desenvolvedor de software Full Stack](./assets/cabecalho.svg)
+![Darth Vader — Herbert Dev | Galactic Developer](./assets/cabecalho.svg)
 
 # Herbert da Silva da Cruz
 
-**Desenvolvedor de Software | Full Stack**
+**`DESENVOLVEDOR DE SOFTWARE` · `FULL STACK` · `O LADO SOMBRIO DO CÓDIGO`**
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=flat-square&logo=googlechrome&logoColor=58A6FF)](https://herbertsdev.github.io/herbert-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/herbert-da-silva-da-cruz-b001942b0/)
-[![E-mail](https://img.shields.io/badge/E--mail-111827?style=flat-square&logo=microsoftoutlook&logoColor=D7B65D)](mailto:herbertdasilvadacruz@outlook.com)
+*“Impressive. Most impressive.”*
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0B0B0F?style=flat-square&logo=googlechrome&logoColor=E50914)](https://herbertsdev.github.io/herbert-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0F?style=flat-square&logo=linkedin&logoColor=E50914)](https://www.linkedin.com/in/herbert-da-silva-da-cruz-b001942b0/)
+[![E-mail](https://img.shields.io/badge/E--mail-0B0B0F?style=flat-square&logo=microsoftoutlook&logoColor=FF3B3B)](mailto:herbertdasilvadacruz@outlook.com)
+
+</div>
+
+<div align="center">
+
+![Lado sombrio](https://img.shields.io/badge/DARK_SIDE-ONLINE-E50914?style=for-the-badge&labelColor=08080A) ![Status](https://img.shields.io/badge/BUILDING_THE_FUTURE-IN_PROGRESS-1A1A1F?style=for-the-badge&labelColor=08080A&color=9A101B)
 
 </div>
 
 ```text
-herbert@github:~/workspace$ status --resumo
+lord-vader@death-star:~/galactic-workspace$ ./imperial-status --profile
 
 foco       desenvolvimento de software, APIs, interfaces e bancos de dados
 formação   Análise e Desenvolvimento de Sistemas · Mackenzie · 2º/5 semestres
 objetivo   oportunidade de estágio em desenvolvimento de software
-modo       aprender → construir → documentar → evoluir
+protocolo  aprender → construir → documentar → evoluir
 ```
 
-## Painel do perfil
+---
+
+## 01 · Identificação Imperial
 
 | Sinal | Informação |
 | :--- | :--- |
@@ -33,61 +43,69 @@ modo       aprender → construir → documentar → evoluir
 | **Interesses** | Back-end, interfaces web, APIs, bancos de dados e aplicativos móveis |
 | **GitHub** | [@HerbertsDev](https://github.com/HerbertsDev) |
 
-## Sobre mim
+---
+
+## 02 · Origem do Desenvolvedor
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e transformo aprendizado em software: APIs, interfaces web e bancos de dados construídos com clareza, organização e atenção à experiência de quem usa.
 
 Minha trajetória também inclui suporte técnico e de redes, investigação de incidentes, atendimento a usuários e comunicação entre equipes. Essa base reforçou meu olhar para confiabilidade, documentação e resolução de problemas. Hoje, desenvolvo projetos de back-end, front-end, banco de dados e prototipação de interfaces enquanto busco uma oportunidade de estágio em desenvolvimento de software.
 
-## Stack tecnológica
+---
 
-### Aplicada em projetos e experiências documentadas
+## 03 · Arsenal Tecnológico
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=58A6FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=D7B65D)
-![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=58A6FF)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=58A6FF)
-![SCSS](https://img.shields.io/badge/SCSS-111827?style=flat-square&logo=sass&logoColor=58A6FF)
+### Armamentos em operação · projetos e experiências
 
-![Angular](https://img.shields.io/badge/Angular-111827?style=flat-square&logo=angular&logoColor=58A6FF)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=58A6FF)
-![APIs REST](https://img.shields.io/badge/APIs_REST-111827?style=flat-square&logo=postman&logoColor=D7B65D)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=58A6FF)
-![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-0B0B0F?style=flat-square&logo=python&logoColor=E50914)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0B0F?style=flat-square&logo=typescript&logoColor=E50914)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0B0F?style=flat-square&logo=javascript&logoColor=FF3B3B)
+![SQL](https://img.shields.io/badge/SQL-0B0B0F?style=flat-square&logo=postgresql&logoColor=E50914)
+![HTML5](https://img.shields.io/badge/HTML5-0B0B0F?style=flat-square&logo=html5&logoColor=E50914)
+![SCSS](https://img.shields.io/badge/SCSS-0B0B0F?style=flat-square&logo=sass&logoColor=E50914)
 
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=58A6FF)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=F0F6FC)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=58A6FF)
-![Playwright](https://img.shields.io/badge/Playwright-111827?style=flat-square&logo=playwright&logoColor=58A6FF)
-![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=D7B65D)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-111827?style=flat-square&logo=postgresql&logoColor=58A6FF)
+![Angular](https://img.shields.io/badge/Angular-0B0B0F?style=flat-square&logo=angular&logoColor=E50914)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B0B0F?style=flat-square&logo=fastapi&logoColor=E50914)
+![APIs REST](https://img.shields.io/badge/APIs_REST-0B0B0F?style=flat-square&logo=postman&logoColor=FF3B3B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0B0F?style=flat-square&logo=postgresql&logoColor=E50914)
+![SQLite](https://img.shields.io/badge/SQLite-0B0B0F?style=flat-square&logo=sqlite&logoColor=E50914)
 
-### Conhecimentos e estudos complementares
+![Git](https://img.shields.io/badge/Git-0B0B0F?style=flat-square&logo=git&logoColor=E50914)
+![GitHub](https://img.shields.io/badge/GitHub-0B0B0F?style=flat-square&logo=github&logoColor=E8E8EA)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0B0B0F?style=flat-square&logo=githubactions&logoColor=E50914)
+![Playwright](https://img.shields.io/badge/Playwright-0B0B0F?style=flat-square&logo=playwright&logoColor=E50914)
+![Figma](https://img.shields.io/badge/Figma-0B0B0F?style=flat-square&logo=figma&logoColor=FF3B3B)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-0B0B0F?style=flat-square&logo=postgresql&logoColor=E50914)
 
-![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=58A6FF)
-![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=dotnet&logoColor=58A6FF)
-![Dart](https://img.shields.io/badge/Dart-111827?style=flat-square&logo=dart&logoColor=58A6FF)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=58A6FF)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=58A6FF)
-![Flutter](https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=58A6FF)
-![.NET](https://img.shields.io/badge/.NET-111827?style=flat-square&logo=dotnet&logoColor=58A6FF)
+### Tecnologias em treinamento · estudos complementares
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=58A6FF)
-![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=58A6FF)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=58A6FF)
-![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=D7B65D)
-![Kafka](https://img.shields.io/badge/Kafka-111827?style=flat-square&logo=apachekafka&logoColor=F0F6FC)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111827?style=flat-square&logo=rabbitmq&logoColor=D7B65D)
-![JWT](https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=F0F6FC)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-111827?style=flat-square&logo=openapiinitiative&logoColor=58A6FF)
-![Jira](https://img.shields.io/badge/Jira-111827?style=flat-square&logo=jira&logoColor=58A6FF)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=58A6FF)
-![Postman](https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=D7B65D)
+![Java](https://img.shields.io/badge/Java-0B0B0F?style=flat-square&logo=openjdk&logoColor=E50914)
+![C#](https://img.shields.io/badge/C%23-0B0B0F?style=flat-square&logo=dotnet&logoColor=E50914)
+![Dart](https://img.shields.io/badge/Dart-0B0B0F?style=flat-square&logo=dart&logoColor=E50914)
+![Node.js](https://img.shields.io/badge/Node.js-0B0B0F?style=flat-square&logo=nodedotjs&logoColor=E50914)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B0B0F?style=flat-square&logo=springboot&logoColor=E50914)
+![Flutter](https://img.shields.io/badge/Flutter-0B0B0F?style=flat-square&logo=flutter&logoColor=E50914)
+![.NET](https://img.shields.io/badge/.NET-0B0B0F?style=flat-square&logo=dotnet&logoColor=E50914)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-0B0B0F?style=flat-square&logo=microsoftsqlserver&logoColor=E50914)
+![Redis](https://img.shields.io/badge/Redis-0B0B0F?style=flat-square&logo=redis&logoColor=E50914)
+![Docker](https://img.shields.io/badge/Docker-0B0B0F?style=flat-square&logo=docker&logoColor=E50914)
+![AWS](https://img.shields.io/badge/AWS-0B0B0F?style=flat-square&logo=amazonwebservices&logoColor=FF3B3B)
+![Kafka](https://img.shields.io/badge/Kafka-0B0B0F?style=flat-square&logo=apachekafka&logoColor=E8E8EA)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0B0B0F?style=flat-square&logo=rabbitmq&logoColor=FF3B3B)
+![JWT](https://img.shields.io/badge/JWT-0B0B0F?style=flat-square&logo=jsonwebtokens&logoColor=E8E8EA)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-0B0B0F?style=flat-square&logo=openapiinitiative&logoColor=E50914)
+![Jira](https://img.shields.io/badge/Jira-0B0B0F?style=flat-square&logo=jira&logoColor=E50914)
+![VS Code](https://img.shields.io/badge/VS_Code-0B0B0F?style=flat-square&logo=visualstudiocode&logoColor=E50914)
+![Postman](https://img.shields.io/badge/Postman-0B0B0F?style=flat-square&logo=postman&logoColor=FF3B3B)
 
 > As tecnologias estão separadas entre aplicação em projetos ou experiências documentadas e repertório de estudos complementares. Badges não representam nível de proficiência.
 
-## Projetos em destaque
+---
+
+## 04 · Missões da Frota Imperial
+
+> **ARQUIVO IMPERIAL:** Projetos reais, entregas acadêmicas e protótipos são descritos de acordo com seu estágio de desenvolvimento.
 
 ### [Portfólio profissional](https://github.com/HerbertsDev/herbert-portfolio) · publicado
 
@@ -129,21 +147,25 @@ Protótipo de experiência para iOS com agenda diária, detalhes de dose e horá
 
 </details>
 
-## Atividade no GitHub
+---
+
+## 05 · Telemetria da Estrela da Morte
 
 <div align="center">
 
-![Visão geral das contribuições públicas de Herbert](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HerbertsDev&theme=github_dark)
+![Visão geral das contribuições públicas de Herbert](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HerbertsDev&theme=radical)
 
-![Estatísticas públicas do perfil de Herbert](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HerbertsDev&theme=github_dark)
+![Estatísticas públicas do perfil de Herbert](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HerbertsDev&theme=radical)
 
-![Repositórios por linguagem no perfil de Herbert](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HerbertsDev&theme=github_dark)
+![Repositórios por linguagem no perfil de Herbert](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HerbertsDev&theme=radical)
 
 </div>
 
 > Os gráficos refletem apenas atividade pública e não medem proficiência. Se o serviço externo estiver indisponível, a [atividade nativa do perfil](https://github.com/HerbertsDev?tab=overview) continua acessível.
 
-## Aprendizado contínuo
+---
+
+## 06 · Treinamento no Lado Sombrio
 
 - Engenharia de software, arquitetura limpa e padrões de projeto.
 - Arquitetura de sistemas, microsserviços e sistemas distribuídos.
@@ -153,13 +175,17 @@ Protótipo de experiência para iOS com agenda diária, detalhes de dose e horá
 
 Esses tópicos representam minha direção de estudo. Projetos conceituais de motor de notificações orientado a eventos e monitoramento de redes fazem parte desse roteiro, sem serem apresentados aqui como produtos públicos concluídos.
 
-## Idiomas
+---
+
+## 07 · Protocolos de Comunicação
 
 - **Português:** nativo
 - **Inglês:** A2
 - **Espanhol:** A2
 
-## Contato
+---
+
+## 08 · Canal de Comunicação Imperial
 
 Estou em busca de uma oportunidade de estágio em desenvolvimento de software. Para conversar sobre projetos, tecnologia ou oportunidades:
 
@@ -172,6 +198,6 @@ Estou em busca de uma oportunidade de estágio em desenvolvimento de software. P
 
 <div align="center">
 
-**Engenharia de software como protagonista. Personalidade nos detalhes.**
+**THE FORCE IS STRONG WITH THIS CODE.**
 
 </div>
