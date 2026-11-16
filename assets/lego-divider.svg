@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" role="img" aria-label="Section divider">
+  <rect x="0" y="16" width="1200" height="4" rx="2" fill="#17242C"/>
+  <rect x="486" y="8" width="228" height="20" rx="10" fill="#4CAECC"/>
+  <circle cx="528" cy="18" r="7" fill="#FFD60A"/>
+  <circle cx="566" cy="18" r="7" fill="#FFFFFF"/>
+  <circle cx="604" cy="18" r="7" fill="#17242C"/>
+  <circle cx="642" cy="18" r="7" fill="#FFFFFF"/>
+  <circle cx="680" cy="18" r="7" fill="#FFD60A"/>
+</svg>
